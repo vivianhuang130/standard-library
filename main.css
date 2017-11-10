@@ -1,3 +1,7 @@
 .palmtree{
  text-align: center;
 }
+#theImage {
+  visibility: hidden;
+
+}
